@@ -1,0 +1,1 @@
+This is out fisrt devops training on github. here on this call, we are making changes through the remote repository in the staging environment
